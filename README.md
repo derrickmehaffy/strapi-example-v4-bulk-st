@@ -10,4 +10,4 @@ In this custom controller we are pulling in both of the controller factories and
 
 And here is the example of the response:
 
-~[](images/2023-02-23_08:47:36_Selection.png)
+![](images/2023-02-23_08:47:36_Selection.png)
